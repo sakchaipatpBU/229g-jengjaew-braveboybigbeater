@@ -1,24 +1,24 @@
 # 229g-jengjaew-braveboybigbeater
 
-# Members
+## Members
 
 ### 1660706662 Sakchai Plaphai Section 229G No.33
 
-## Role : Game Development, C# Coding, Implement Animator Statement,
+### Role : Game Development, C# Coding, Implement Animator Statement,
 
 ### Level Design, Modeling (Shuriken), Implement Particle System
 
-## 1660707124 Thuwanan Pumjureerat Section 229G No.36
+### 1660707124 Thuwanan Pumjureerat Section 229G No.36
 
 ### Role : Implement AI/Sound, Project Advice
 
 ---
 
-# Thank you free Assets
+## Thank you free Assets
 
-## From => Unity Asset Store
+### From => Unity Asset Store
 
-## Create By => Dungeon Mason
+### Create By => Dungeon Mason
 
 ### 1. RPG Tiny Hero Duo PBR Polyart
 
